@@ -66,7 +66,7 @@ def create_dataloader_v1(txt, batch_size=4, max_length=256,
 
 
 
-max_length = 6
+max_length = 4
 
 
 dataloader = create_dataloader_v1(
